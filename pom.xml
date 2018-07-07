@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>world.zhx.example</groupId>
-    <artifactId>websocket-sockjs-example</artifactId>
+    <artifactId>websocket-sockjs-stomp-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>websocket-sockjs-example</name>
+    <name>websocket-sockjs-stomp-example</name>
     <description>Demo project for Websocket</description>
 
     <parent>
