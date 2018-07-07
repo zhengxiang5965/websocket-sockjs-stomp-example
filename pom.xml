@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>world.zhx.example</groupId>
-    <artifactId>websocket-example</artifactId>
+    <artifactId>websocket-sockjs-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
